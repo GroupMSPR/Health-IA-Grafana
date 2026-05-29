@@ -38,6 +38,25 @@ Le repository [Health-IA-Workspace](https://github.com/GroupMSPR/Health-IA-Works
 
 ## Architecture
 
+---
+
+### Diagramme de flux
+
+```mermaid
+graph TD
+    JSON("📁 Fichiers JSON Dashboards")
+    Grafana("📊 Interface Web Grafana (Port 3000)")
+    Admin("👨‍💻 Administrateur")
+    DB("🗄️ PostgreSQL Database")
+
+    JSON -- "Importation de la configuration" --> Grafana
+    Admin -- "Consultation des graphiques" --> Grafana
+    Grafana -- "Requêtes SQL (via Data Source)" --> DB
+    DB -. "Métriques en temps réel" .-> Grafana
+```
+
+---
+
 ### Structure du projet
 
 ```text
