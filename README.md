@@ -6,6 +6,7 @@ Ce repository centralise les configurations des tableaux de bord **Grafana** per
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
