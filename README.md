@@ -273,7 +273,7 @@ Vérifiez :
 
 ## 📚 Documentation supplémentaire
 
-- [Grafana Documentation]((https://grafana.com/docs/grafana/latest/))
+- [Grafana Documentation](https://grafana.com/docs/grafana/latest/)
 - [Grafana PostgreSQL Data Source](https://grafana.com/docs/grafana/latest/datasources/postgres/)
 
 ---
