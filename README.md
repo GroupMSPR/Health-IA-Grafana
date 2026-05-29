@@ -67,18 +67,6 @@ graph TD
 
 ---
 
-### Structure du projet
-
-```text
-Health-IA-Grafana/
-├── exercisesGrafana.json       # Dashboard des exercices physiques
-├── foodsGrafana.json           # Dashboard nutritionnel
-├── healthMetricsGrafana.json   # Dashboard des métriques de santé
-└── usersGrafana.json           # Dashboard d'analyse des utilisateurs
-```
-
----
-
 ## Tableaux de bord inclus
 
 Chaque fichier JSON correspond à un espace de visualisation spécifique.
