@@ -38,6 +38,16 @@ Le repository [Health-IA-Workspace](https://github.com/GroupMSPR/Health-IA-Works
 
 ## Architecture
 
+### Structure du projet
+
+```text
+Health-IA-Grafana/
+├── exercisesGrafana.json       # Dashboard des exercices physiques
+├── foodsGrafana.json           # Dashboard nutritionnel
+├── healthMetricsGrafana.json   # Dashboard des métriques de santé
+└── usersGrafana.json           # Dashboard d'analyse des utilisateurs
+```
+
 ---
 
 ### Diagramme de flux
