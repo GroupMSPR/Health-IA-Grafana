@@ -4,7 +4,7 @@
 Ce repository centralise les configurations des tableaux de bord **Grafana** permettant d'analyser les données de l'application (utilisateurs, nutrition, sport et santé) en temps réel.
 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-Model-000000?logo=json&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-Model-F46800?logo=json&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue?logo=postgresql)
 
 ![Type](https://img.shields.io/badge/Type-Model_Grafana-purple)
